@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/naseerahmeed/Library/Developer/Xcode/DerivedData/Runner-bujpbcelffhfuifplcfdprukfhyx/Build/Products/Debug-iphoneos/Runner.app/PlugIns/RunnerTests.xctest/RunnerTests'
+relocations:
+  - { offsetInCU: 0x27, offset: 0x5967D, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC11testExampleyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x14 }
+  - { offsetInCU: 0x61, offset: 0x596B7, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC11testExampleyyFTo', symObjAddr: 0x14, symBinAddr: 0x4014, symSize: 0x3C }
+  - { offsetInCU: 0xB3, offset: 0x59709, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC10invocationABSo12NSInvocationCSg_tcfcTo', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x38 }
+  - { offsetInCU: 0x105, offset: 0x5975B, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC8selectorAB10ObjectiveC8SelectorV_tcfcTo', symObjAddr: 0x228, symBinAddr: 0x4228, symSize: 0x24 }
+  - { offsetInCU: 0x14D, offset: 0x597A3, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAACABycfcTo', symObjAddr: 0x2DC, symBinAddr: 0x42DC, symSize: 0x20 }
+  - { offsetInCU: 0x180, offset: 0x597D6, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAACMa', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x24 }
+  - { offsetInCU: 0x279, offset: 0x598CF, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC11testExampleyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x14 }
+  - { offsetInCU: 0x2A3, offset: 0x598F9, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC10invocationABSo12NSInvocationCSg_tcfC', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x48 }
+  - { offsetInCU: 0x2B7, offset: 0x5990D, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC10invocationABSo12NSInvocationCSg_tcfc', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x84 }
+  - { offsetInCU: 0x302, offset: 0x59958, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC8selectorAB10ObjectiveC8SelectorV_tcfC', symObjAddr: 0x178, symBinAddr: 0x4178, symSize: 0x34 }
+  - { offsetInCU: 0x316, offset: 0x5996C, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAAC8selectorAB10ObjectiveC8SelectorV_tcfc', symObjAddr: 0x1AC, symBinAddr: 0x41AC, symSize: 0x7C }
+  - { offsetInCU: 0x347, offset: 0x5999D, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAACABycfC', symObjAddr: 0x24C, symBinAddr: 0x424C, symSize: 0x24 }
+  - { offsetInCU: 0x35B, offset: 0x599B1, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAACABycfc', symObjAddr: 0x270, symBinAddr: 0x4270, symSize: 0x6C }
+  - { offsetInCU: 0x37F, offset: 0x599D5, size: 0x8, addend: 0x0, symName: '_$s11RunnerTestsAACfD', symObjAddr: 0x2FC, symBinAddr: 0x42FC, symSize: 0x48 }
+...
